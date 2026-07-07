@@ -19,10 +19,12 @@ The provided code is written in Python 🐍. When executing the code, ensure you
 
 ### 📚 Reference
 **Plain text**
+
 If you intend on using this repository, we request that you reference it using the following:
 J. Cook, S. Ur Rehman and M. A. Khan, "Impact of Differentials in SIMON32 Algorithm for Lightweight Security of Internet of Things," 2025 IEEE Globecom Workshops (GC Wkshps), Taipei, Taiwan, 2025, pp. 472-477, doi: 10.1109/GCWkshps68340.2025.11590866. keywords: {Ciphers;Probability;Algorithms;Internet of Things;Printing;Arrays;Equations;Conferences;Sorting;Security;SIMON32;Differential;Security Analysis;Internet of Things;Lightweight Security},
 
 **BibTex**
+
 @INPROCEEDINGS{cook2025impact,
   author={Cook, Jonathan and Ur Rehman, Sabih and Khan, M. Arif},
   booktitle={2025 IEEE Globecom Workshops (GC Wkshps)}, 
@@ -33,15 +35,19 @@ J. Cook, S. Ur Rehman and M. A. Khan, "Impact of Differentials in SIMON32 Algori
 }
 
 **APA 7**
+
 Cook, J., Ur Rehman, S., & Khan, M. A. (2025). Impact of Differentials in SIMON32 Algorithm for Lightweight Security of Internet of Things. 2025 IEEE Globecom Workshops (GC Wkshps), 472–477. https://doi.org/10.1109/GCWkshps68340.2025.11590866
 
 **Havard**
+
 Cook, J, Ur Rehman, S & Khan, MA 2025, ‘Impact of Differentials in SIMON32 Algorithm for Lightweight Security of Internet of Things’, in 2025 IEEE Globecom Workshops (GC Wkshps), pp. 472–477.
 
 **Vancouver**
+
 Cook J, Ur Rehman S, Khan MA. Impact of Differentials in SIMON32 Algorithm for Lightweight Security of Internet of Things. In: 2025 IEEE Globecom Workshops (GC Wkshps). 2025. p. 472–7.
 
 **IEEE**
+
 J. Cook, S. Ur Rehman, and M. A. Khan, “Impact of Differentials in SIMON32 Algorithm for Lightweight Security of Internet of Things,” in 2025 IEEE Globecom Workshops (GC Wkshps), 2025, pp. 472–477. doi: 10.1109/GCWkshps68340.2025.11590866.
 
 ***
