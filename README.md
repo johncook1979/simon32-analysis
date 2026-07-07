@@ -18,9 +18,10 @@ The provided code is written in Python 🐍. When executing the code, ensure you
 
 
 ### 📚 Reference
+If you intend on using this repository, we request that you reference it using the following:
+
 **Plain text**
 
-If you intend on using this repository, we request that you reference it using the following:
 J. Cook, S. Ur Rehman and M. A. Khan, "Impact of Differentials in SIMON32 Algorithm for Lightweight Security of Internet of Things," 2025 IEEE Globecom Workshops (GC Wkshps), Taipei, Taiwan, 2025, pp. 472-477, doi: 10.1109/GCWkshps68340.2025.11590866. keywords: {Ciphers;Probability;Algorithms;Internet of Things;Printing;Arrays;Equations;Conferences;Sorting;Security;SIMON32;Differential;Security Analysis;Internet of Things;Lightweight Security},
 
 **BibTex**
