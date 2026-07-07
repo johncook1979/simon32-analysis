@@ -27,12 +27,12 @@ J. Cook, S. Ur Rehman and M. A. Khan, "Impact of Differentials in SIMON32 Algori
 **BibTex**
 
 @INPROCEEDINGS{cook2025impact,\
-&ensp;  author={Cook, Jonathan and Ur Rehman, Sabih and Khan, M. Arif},\
-&ensp;  booktitle={2025 IEEE Globecom Workshops (GC Wkshps)}, \
-&ensp;  title={Impact of Differentials in SIMON32 Algorithm for Lightweight Security of Internet of Things}, \
-&ensp;  year={2025},\
-&ensp;  pages={472-477},\
-&ensp;  doi={10.1109/GCWkshps68340.2025.11590866}\
+&emsp;  author={Cook, Jonathan and Ur Rehman, Sabih and Khan, M. Arif},\
+&emsp;  booktitle={2025 IEEE Globecom Workshops (GC Wkshps)}, \
+&emsp;  title={Impact of Differentials in SIMON32 Algorithm for Lightweight Security of Internet of Things}, \
+&emsp;  year={2025},\
+&emsp;  pages={472-477},\
+&emsp;  doi={10.1109/GCWkshps68340.2025.11590866}\
 }
 
 **APA 7**
